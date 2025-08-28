@@ -1,6 +1,6 @@
 import React from 'react'
 
-const page = () => {
+const Projects = () => {
   return (
     <div>
       <h1 className="text-7xl text-red-400">Lets Start!</h1>
@@ -8,4 +8,4 @@ const page = () => {
   )
 }
 
-export default page
+export default Projects
